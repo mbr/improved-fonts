@@ -3,7 +3,7 @@ A lot of effort has been put into crafting this finely tuned `.fonts.conf` file.
 
 Be sure to install this on your coworker's machines as well to spread great taste in fonts.
 
-The package has been thoroughly tested on Debian Jessie and Stretch. It does require the `ttf-mscorefonts-installer` to be installed though.
+The package has been thoroughly tested on Debian Jessie and Stretch. It does require the `ttf-mscorefonts-installer` package to be installed though.
 
 
 ## Known issues
