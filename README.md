@@ -15,11 +15,11 @@ Even though it works well enough in editors like Sublime Text, normal desktop ap
 
 Be sure to remove both `~/.fonts.conf` as well as `~/.config/fontconfig/fonts.conf` to uninstall.
 
-> Und sie laufen! Naß und nässer
-> wirds im Saal und auf den Stufen.
-> Welch entsetzliches Gewässer!
-> Herr und Meister! hör mich rufen! –
-> Ach, da kommt der Meister!
-> Herr, die Not ist groß!
-> Die ich rief, die Geister
-> werd ich nun nicht los.
+> Und sie laufen! Naß und nässer  
+> wirds im Saal und auf den Stufen.  
+> Welch entsetzliches Gewässer!  
+> Herr und Meister! hör mich rufen! –  
+> Ach, da kommt der Meister!  
+> Herr, die Not ist groß!  
+> Die ich rief, die Geister  
+> werd ich nun nicht los.  
